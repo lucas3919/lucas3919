@@ -44,6 +44,10 @@ Hello humans!</br>I'm Lucas 🐱‍👤
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucas3919&show_icons=true&theme=github_dark"/>
 
+<br>
+
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslbf&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Trophies:
 
 <div>
