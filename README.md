@@ -35,7 +35,6 @@ Hello humans!</br>I'm Lucas 🐱‍👤
 ![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=Laravel&logoColor=Red)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Shopify](https://img.shields.io/badge/shopify-8DB543?style=for-the-badge&logo=Shopify&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 
 ### Work Tools:
 ![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)
