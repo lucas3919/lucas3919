@@ -13,8 +13,6 @@ Hello humans!</br>I'm Lucas 🐱‍👤
 
 </div>
 
----
-
 ### Back-End Languages:
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -62,7 +60,5 @@ Hello humans!</br>I'm Lucas 🐱‍👤
 
 ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=lucas3919&theme=dark)
 
-
 ### Developer of:
-
 [![Cesio_Bot](https://github-readme-stats.vercel.app/api/pin/?username=cesarstudents&repo=Cesio_Bot&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/cesarstudents/Cesio_Bot)
