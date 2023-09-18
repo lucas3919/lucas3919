@@ -21,7 +21,6 @@ Hello humans!</br>I'm Lucas 🐱‍👤
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/java-f05032.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-black?style=for-the-badge&logo=haskell&logoColor=5D4F85)
-![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 ### Front-End Languages:
 ![HTML](https://img.shields.io/badge/HTML%205-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -44,6 +43,7 @@ Hello humans!</br>I'm Lucas 🐱‍👤
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
