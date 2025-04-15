@@ -31,7 +31,6 @@ Hello humans!</br>I'm Lucas 🐱‍👤
 
 ### Frameworks:
 ![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=Laravel&logoColor=Red)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Work Tools:
 ![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)
@@ -42,6 +41,7 @@ Hello humans!</br>I'm Lucas 🐱‍👤
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white) <br>
 ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 <br/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucas3919&show_icons=true&theme=github_dark"/>
